@@ -3,8 +3,6 @@
     <img src="https://komarev.com/ghpvc/?username=repunit11" alt="yutkat" />
   </a>
 <p align="left"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repunit11)](https://github.com/anuraghazra/github-readme-stats)
-  [![repunit11's GitHub stats](https://github-readme-stats.vercel.app/api?username=repunit11)](https://github.com/anuraghazra/github-readme-stats)
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repunit11&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=repunit11&theme=onedark&show_icons=ture" />
 </p>
