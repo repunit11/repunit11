@@ -7,16 +7,20 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=repunit11&theme=onedark&show_icons=ture" /> -->
 </p>
 
+## Activities
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="178" src="https://github-readme-stats-clone-4ntg.vercel.app/api?username=repunit11&show_icons=true&count_private=true&custom_title=repunit11%27s%20Github%20Stats&include_all_commits=true&theme=chartreuse-dark" />
+    <img height="190" src="https://github-readme-stats-clone-4ntg.vercel.app/api?username=repunit11&show_icons=true&count_private=true&custom_title=repunit11%27s%20Github%20Stats&include_all_commits=true&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/4okimi7uki/repo-spector">
-    <img src="./output/top6_lang.svg" alt="stats" />
-  </a>
+    <img height="190" src="https://raw.githubusercontent.com/repunit11/github-lang-rank/main/charts/lang-rank.svg" alt="Most Used L
+          anguages">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=go,react,ts,py,laravel)](https://skillicons.dev)
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,react,ts,astro,py,c,solidity,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,git,idea)](https://skillicons.dev)
 <!---
 repunit11/repunit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
