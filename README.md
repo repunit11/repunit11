@@ -11,10 +11,13 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="190" src="https://github-readme-stats-clone-4ntg.vercel.app/api?username=repunit11&show_icons=true&count_private=true&custom_title=repunit11%27s%20Github%20Stats&include_all_commits=true&theme=chartreuse-dark" />
+    <img width="370" src="https://github-readme-stats-clone-4ntg.vercel.app/api?username=repunit11&show_icons=true&count_private=true&custom_title=repunit11%27s%20Github%20Stats&include_all_commits=true&theme=chartreuse-dark" />
   </a>
-    <img height="190" src="https://raw.githubusercontent.com/repunit11/github-lang-rank/main/charts/lang-rank.svg" alt="Most Used L
+    <img width="370" src="https://raw.githubusercontent.com/repunit11/github-lang-rank/main/charts/lang-rank.svg" alt="Most Used L
           anguages">
+  <!-- <a href="https://gitty-code.com/user/repunit11">
+    <img width="530" src="https://gitty-code.com/api/badge/repunit11.png">
+  </a> -->
 </div>
 
 ## Skills
